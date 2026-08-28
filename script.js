@@ -177,14 +177,11 @@ const CONFIG = {
 
 
     CONSEQUENCE_IMAGES: [
+    "assets/1787407776519.jpg",
+    "assets/Screenshot_20260805-143605~2.jpg",
+    "assets/Screenshot_20260819-191101~2.jpg"
+]
 
-        "assets/foto1.jpg",
-
-        "assets/foto2.jpg",
-
-        "assets/foto3.jpg"
-
-    ]
 
 };
 
